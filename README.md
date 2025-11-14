@@ -25,9 +25,7 @@ The **dataset** consists of historical OHLCV stock prices, and the `student.py` 
 
 ---
 
-## Installation
+## Enviroment Setup
 
 ```bash
-git clone <repo-url>
-cd <repo-directory>
 pip install -r requirements.txt
